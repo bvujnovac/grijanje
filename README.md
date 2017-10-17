@@ -1,6 +1,6 @@
 esp8266 heating controll in  my appartment
 
--this is in a very early stage, currently only works: 
+-this is in a very early stage, currently only works:
 
 -getting outside temperature from accuweather.
 -getting temperature radings from sensor in my room.
